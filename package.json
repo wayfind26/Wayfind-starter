@@ -8,7 +8,7 @@
   "android": "expo start --android",
   "ios": "expo start --ios",
   "web": "expo start --web",
-  "build": "npx expo export:web --output web-build"
+  "build": "npx expo export:web --output-dir web-build"
   },
   "dependencies": {
     "expo": "48.0.0",
