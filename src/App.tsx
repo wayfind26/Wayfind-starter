@@ -4,9 +4,9 @@ import { StatusBar } from "expo-status-bar";
 export default function App() {
   return (
     
-      Wayfind - The Planner's Advantage
+      Wayfind. The Planner's Advantage.
       
-        Planner-centric community for discovering vetted vendors, sharing reviews, and collaborating with peers.
+        Planner centered community for discovering vetted vendors, sharing reviews, and collaborating with peers.
       
       
     
