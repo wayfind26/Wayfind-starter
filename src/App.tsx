@@ -4,9 +4,9 @@ import { StatusBar } from "expo-status-bar";
 export default function App() {
   return (
     
-      Wayfind. The Planner's Advantage.
+      Wayfind - The Planner's Advantage
       
-        Planner centered community for discovering vetted vendors, sharing reviews, and collaborating with peers.
+        Planner-centric community for discovering vetted vendors, sharing reviews, and collaborating with peers.
       
       
     
@@ -17,4 +17,3 @@ const styles = StyleSheet.create({
   title: { fontSize: 24, fontWeight: "700", color: "#000" },
   subtitle: { marginTop: 12, fontSize: 16, color: "#333", textAlign: "center" }
 });
-
